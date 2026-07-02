@@ -24,7 +24,7 @@ I am a Software Developer with a strong interest in backend engineering and scal
 
 ## Experience
 
-### Software Development Intern @Cuvette.tech
+### Software Developer @Cuvette.tech
 
 **April 2025 – May 2026**
 
