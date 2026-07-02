@@ -45,13 +45,6 @@ I am a Software Developer with a strong interest in backend engineering and scal
 
 ---
 
-## Coding Profiles
-
-- **LeetCode:** YOUR_LEETCODE
-- **GeeksforGeeks:** YOUR_GFG
-
----
-
 ## What I'm Currently Learning
 
 - Data Structires & Algorithms
